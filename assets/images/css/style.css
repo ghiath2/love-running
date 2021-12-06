@@ -284,6 +284,13 @@ display: inline;
     hr {
         display: none;
     }
+
+    #times > div {
+        width: 100%;
+        clear: both;
+        height: 150px;
+        padding: 0;
+    }
 }
 
 /* For media screen sizes from 950px and down */
